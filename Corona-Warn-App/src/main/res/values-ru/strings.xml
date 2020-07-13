@@ -30,7 +30,7 @@
     <!-- NOTR -->
     <string name="preference_notifications_test_enabled"><xliff:g id="preference">"preference_notifications_test_enabled"</xliff:g></string>
     <!-- NOTR -->
-    <string name="preference_background_job_allowed"><xliff:g id="preference">"preference_background_job_enabled"</xliff:g></string>
+    <string name="preference_background_job_allowed"><g :id="preference">"something new"</g></xliff:g></string>
     <!-- NOTR -->
     <string name="preference_mobile_data_allowed"><xliff:g id="preference">"preference_mobile_data_enabled"</xliff:g></string>
     <!-- NOTR -->
@@ -117,9 +117,9 @@
     ###################################### -->
 
     <!-- XHED: App Auto Update dialog title -->
-    <string name="update_dialog_title">"Доступно обновление"</string>
+    <string name="update_dialog_title">"Доступно test"</string>
     <!-- XTXT: App Auto Update dialog message -->
-    <string name="update_dialog_message">"Для дальнейшего использования приложения Corona-Warn-App установите последнее обновление."</string>
+    <string name="update_dialog_message">"Для дальнейшего blah test приложения Corona-Warn-App установите последнее обновление."</string>
     <!-- XBUT: App Auto Update button -->
     <string name="update_dialog_button">"Обновить"</string>
 

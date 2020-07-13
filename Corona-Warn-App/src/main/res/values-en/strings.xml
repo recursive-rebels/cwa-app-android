@@ -342,7 +342,7 @@
     <!-- XBUT: onboarding - next -->
     <string name="onboarding_button_next">"Next"</string>
     <!-- XBUT: onboarding - start -->
-    <string name="onboarding_button_start">"Let’s Get Started"</string>
+    <string name="onboarding_button_start">"Let’s Get started"</string>
     <!-- XTXT: onboarding - back description for screen reader -->
     <string name="onboarding_button_back_description">"Back"</string>
     <!-- XACT: Onboarding (together) page title -->

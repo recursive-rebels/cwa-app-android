@@ -162,7 +162,7 @@
     <string name="risk_card_increased_risk_headline">"Erhöhtes Risiko"</string>
     <!-- XTXT: risk card - increased risk days since last contact -->
     <plurals name="risk_card_increased_risk_body_contact_last">
-        <item quantity="one">"%1$s Tag seit der letzten Begegnung"</item>
+        <item quantity="one">"%1$s Tag seit der letzten Meeting"</item>
         <item quantity="other">"%1$s Tage seit der letzten Begegnung"</item>
         <item quantity="zero">"%1$s Tage seit der letzten Begegnung"</item>
         <item quantity="two">"%1$s Tage seit der letzten Begegnung"</item>
