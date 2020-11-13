@@ -75,7 +75,7 @@
     ###################################### -->
 
     <!-- XACT: back description for screen readers -->
-    <string name="accessibility_back">"Назад"</string>
+    <string name="accessibility_back">"Назад."</string>
     <!-- XACT: next description for screen readers -->
     <string name="accessibility_next">"Дальше"</string>
     <!-- XACT: menu description for screen readers -->
