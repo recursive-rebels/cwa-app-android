@@ -575,13 +575,13 @@
     <!-- XTXT: Path to the full blown terms html, to translate it exchange "_de" to "_en" and provide the corresponding html file -->
     <string name="information_terms_html_path">"terms_en.html"</string>
     <!-- XHED: Page title for technical contact and hotline information page, also menu item / button text -->
-    <string name="information_contact_title">"Technical Hotline"</string>
+    <string name="information_contact_title">"Technical Hotline..."</string>
     <!-- XHED: Subtitle for technical contact and hotline information page -->
     <string name="information_contact_headline">"How can we help you?"</string>
     <!-- YTXT: Body text for technical contact and hotline information page -->
     <string name="information_contact_body">"For technical questions about the Corona-Warn-App, please contact our hotline."</string>
     <!-- XHED: Subtitle for technical contact and hotline information page -->
-    <string name="information_contact_subtitle_phone">"Technical hotline:"</string>
+    <string name="information_contact_subtitle_phone">"Technical hotline:..."</string>
     <!-- XLNK: Button / hyperlink to phone call for technical contact and hotline information page -->
     <string name="information_contact_button_phone">"+49 800 7540001"</string>
     <!-- XBUT: CAUTION - ONLY UPDATE THE NUMBER IF NEEDED, ONLY NUMBERS AND NO SPECIAL CHARACTERS EXCEPT "+" and "space" ALLOWED IN THIS FIELD; -->
@@ -595,7 +595,7 @@
     <!-- XACT: describes illustration -->
     <string name="information_contact_illustration_description">"A man wears a headset while making a phone call."</string>
     <!-- XLNK: Menu item / hyper link / button text for navigation to FAQ website -->
-    <string name="information_help_title">"FAQ"</string>
+    <string name="information_help_title">"FAQ..."</string>
     <!-- XACT: accessibility hint -->
     <string name="information_help_title_accessibility">"Frequently asked questions. You will be forwarded to an external web site."</string>
     <!-- XHED: Page title for technical information page, also menu item / button text -->
