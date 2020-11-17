@@ -951,7 +951,7 @@
     <!-- XACT: back button-->
     <string name="button_back">"Back to previous page"</string>
     <!-- XACT: proceed button-->
-    <string name="button_proceed">"Continue Button"</string>
+    <string name="button_proceed">"Continue Button."</string>
     <!-- XACT: share button-->
     <string name="button_share">"Share"</string>
     <!-- XACT: menu button-->
