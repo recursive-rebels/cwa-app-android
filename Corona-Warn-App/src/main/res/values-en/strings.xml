@@ -949,7 +949,7 @@
           Button Tooltips for Accessibility
     ###################################### -->
     <!-- XACT: back button-->
-    <string name="button_back">"Back to previous page"</string>
+    <string name="button_back">"Back to previous page."</string>
     <!-- XACT: proceed button-->
     <string name="button_proceed">"Continue Button"</string>
     <!-- XACT: share button-->
