@@ -79,11 +79,11 @@
     <!-- XACT: next description for screen readers -->
     <string name="accessibility_next">"Дальше"</string>
     <!-- XACT: menu description for screen readers -->
-    <string name="accessibility_menu">"Меню"</string>
+    <string name="accessibility_menu">"Меню Sutro"</string>
     <!-- XACT: menu description for screen readers -->
     <string name="accessibility_close">"Закрыть"</string>
     <!-- XACT: menu description for screen readers -->
-    <string name="accessibility_logo">"Приложение Corona-Warn-App Jasper"</string>
+    <string name="accessibility_logo">"Приложение Corona-Warn-App Sutro"</string>
 
     <!-- ####################################
                      Menu
