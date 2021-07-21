@@ -75,7 +75,7 @@
     ###################################### -->
 
     <!-- XACT: back description for screen readers -->
-    <string name="accessibility_back">"Back"</string>
+    <string name="accessibility_back">"Back1"</string>
     <!-- XACT: next description for screen readers -->
     <string name="accessibility_next">"Next"</string>
     <!-- XACT: menu description for screen readers -->
